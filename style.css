@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+image{
+  align-self: center;
+}
+.zeta{
+  padding: 10px;
+  background-color: green;
+}
+.bron{
+  text-align: center;
+}
+.gal{
+  text-align: center;
+  font-size: small;
+}
+.ben{
+  text-align: center;
+  width: hard 800px;
+}
+.hood{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
